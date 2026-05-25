@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypave",
+        "uuid": 1170944,
+        "checksum": "vi45rf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
